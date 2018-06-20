@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ARToVRButton
+  - MapIcon
+  - SatelliteStreet
+  - Street
+  - Taiwan1932
+  - Taiwan1924
+  - Taiwan1897
+  - CloseMapUI
+  - VRFarm
+  - VRBow
+  - VRBoat
+  - VRBrush
+  - StepIcon
+  - CloseStepIcon
+  - rice
+  - Ground
+  - ToolIcon
+  - SceneChangeIcon
+  - CloseSceneIcon
+  - DadaochengVRTransition
+  - DadaochengVRMap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

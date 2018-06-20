@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dadaocheng _ARToVR", "Dadaocheng _ARToVR.csproj", "{3ED18608-8A72-A5D8-60EA-E9294D948C8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dadaocheng _ARToVR.Plugins", "Dadaocheng _ARToVR.Plugins.csproj", "{612B3974-5968-AEFB-29B8-252305FB4985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dadaocheng _ARToVR.Editor", "Dadaocheng _ARToVR.Editor.csproj", "{CD50B0E8-F314-192E-A0C8-5EF49CF1054C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED18608-8A72-A5D8-60EA-E9294D948C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED18608-8A72-A5D8-60EA-E9294D948C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED18608-8A72-A5D8-60EA-E9294D948C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED18608-8A72-A5D8-60EA-E9294D948C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612B3974-5968-AEFB-29B8-252305FB4985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612B3974-5968-AEFB-29B8-252305FB4985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612B3974-5968-AEFB-29B8-252305FB4985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612B3974-5968-AEFB-29B8-252305FB4985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD50B0E8-F314-192E-A0C8-5EF49CF1054C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD50B0E8-F314-192E-A0C8-5EF49CF1054C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD50B0E8-F314-192E-A0C8-5EF49CF1054C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD50B0E8-F314-192E-A0C8-5EF49CF1054C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
